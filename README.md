@@ -1,26 +1,44 @@
-# Hi, I'm Karthik! 👋
+## 👨‍💻 About Me
 
-### 🚀 About Me
-* 💻 **Passionate Java Full Stack Developer**
-* ⚙️ Building scalable applications with **Java & Spring Boot**
-* 🔒 Interested in **Backend Development, REST APIs & Spring Security**
-* 🌐 Creating responsive web apps using **React.js**
-* 📊 Working with **MySQL & Database Design**
-* 🧠 Strong foundation in **OOP, DSA & Problem Solving**
-* 💡 Always learning new technologies and building real-world projects
-* 💼 **Looking for Software Engineer & Java Backend opportunities**
+* 🚀 Passionate Java Full Stack Developer
+* ☕ Building scalable applications with Java & Spring Boot
+* 🔐 Interested in Backend Development, REST APIs & Spring Security
+* ⚛️ Creating responsive web apps using React.js
+* 🗄️ Working with MySQL & Database Design
+* 🧩 Strong foundation in OOP, DSA & Problem Solving
+* 🌱 Currently learning Microservices, Docker & AWS
+* 💡 Always exploring new technologies and building real-world projects
+* 🤝 Open to Software Engineer & Java Backend opportunities
+## 🚀 Featured Projects
+
+### 🛒 Scalable E-Commerce Management System
+
+> Full Stack E-Commerce platform built with **Java, Spring Boot, React, and MySQL**.
+
+✨ Features
+
+* 🔐 JWT Authentication & Spring Security
+* 👤 Role-Based Access Control
+* 🛍️ Product, Cart & Order Management
+* 💳 Razorpay Payment Integration
+* 🔗 RESTful APIs
+* ⚛️ Responsive React Frontend
+
+**Tech Stack:** Java • Spring Boot • Spring Security • React • MySQL • JWT • Razorpay • Git
 
 ---
 
-### 🛠️ Technical Skills
+### 📚 Java Learning Platform
 
-| Technology | Badges |
-| :--- | :--- |
-| **Languages** | <img src="https://shields.io" alt="Java"> <img src="https://shields.io" alt="HTML5"> <img src="https://shields.io" alt="CSS3"> |
-| **Frameworks** | <img src="https://shields.io" alt="Spring Boot"> <img src="https://shields.io" alt="React"> |
-| **Databases** | <img src="https://shields.io" alt="MySQL"> |
+> Secure learning platform with **OTP-based Authentication** and MVC Architecture.
 
----
+✨ Features
 
-### 🔗 Connect With Me
-[📄 View My Resume](PASTE_YOUR_RESUME_URL_HERE) | [💼 LinkedIn](PASTE_YOUR_LINKEDIN_URL_HERE)
+* 📧 OTP Verification System
+* 🔑 User Registration & Login
+* ✅ Server-side Validation
+* 🗄️ Spring Data JPA + MySQL
+* 🎨 Responsive UI
+* 🏗️ MVC Architecture
+
+**Tech Stack:** Java • Spring Boot • Spring MVC • Spring Data JPA • MySQL • HTML • CSS • Git
